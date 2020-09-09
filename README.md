@@ -1,3 +1,3 @@
 # holbertonschool-zero_day
 Project Day 0
-The project is about understanding various concepts about Virtual Machines and how to use them. 
+I'm now a Holberton Student, this is my first repository as a full-stack engineer 
